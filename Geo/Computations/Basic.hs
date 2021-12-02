@@ -112,7 +112,7 @@ speed a b =
 
 -- | Radius of the Earth in meters
 radiusOfEarth :: Double
-radiusOfEarth = 6378700
+radiusOfEarth = 6371
 
 -- | Circumference of Earth (meters)
 circumferenceOfEarth :: Double
